@@ -1,0 +1,25 @@
+#block {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 10px;
+    display: none;
+}
+
+#toggleButton {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#getDataButton {
+    background-color: firebrick;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
